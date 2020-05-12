@@ -16,12 +16,12 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID, PM_AUTO_BAN,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = (
-    "`Hey! Sorry, I haven't approved you to PM yet.`\n"
-    "`Please wait for me to look in`\n"
-    "`Until then, please don't spam my PM..`\n"
-    "`Thank you for being patient.`\n\n"
-    "`*This is an automated message`")
+UNAPPROVED_MSG  = (
+    "` Hei! Maaf, aku belum menyetujui kamu untuk PM.` \ n "
+    "` Tolong tunggu saya untuk melihat`` n "
+    "` Sampai saat itu, tolong jangan spam PM saya..` \ n "
+    "` Terima kasih telah bersabar. ` \ N \ n "
+    "` * Ini adalah pesan otomatis` " )
 # =================================================================
 
 
